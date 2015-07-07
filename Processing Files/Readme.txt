@@ -1,0 +1,1 @@
+Move the controlP5 folder into the library folder of processing. (Documents -> Processing -> libraries -> controlP5)
